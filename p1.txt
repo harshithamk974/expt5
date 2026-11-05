@@ -1,4 +1,8 @@
 welcome to jnnce
 welcome to department
 modified in github
+
 altered in gitbash
+
+altered in github 
+
